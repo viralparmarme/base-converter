@@ -2,7 +2,7 @@
 This repository contains the project files of decimal to any base number system converter.
 
 ___
-## Try the game online!
+## Try the it online!
 [Click here](https://repl.it/@virustark24/Base-Converter) or type the following URL into the address bar of your browser:
 ```bash
 https://repl.it/@virustark24/Base-Converter
